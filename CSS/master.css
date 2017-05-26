@@ -1,0 +1,72 @@
+html {
+	background: url(../images/blueGreen.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover; /* full background image */
+ 	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "Helvetica Neue", sans-serif;
+
+}
+
+.prof-box {
+	width: 400px;
+	height: 450px;
+	background: rgba(0,0,0,0.5);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 90px;
+	text-align: center;
+}
+
+.prof-pic {
+	border-radius: 50%;
+	height: 200px;
+	width: 300px;
+}
+
+h1 {
+	font-weight: 200;
+	letter-spacing: 6;
+	font-size: 40px;
+}
+
+h5 {
+	margin-top: -23px;
+	font-weight: 300;
+}
+
+
+p {
+	font-size: 25px;
+	letter-spacing: 1;
+}
+
+
+.social-icons {
+	font-size: 18px;
+	letter-spacing: 5;
+	margin-top: -20px;
+}
+
+.social-icons a {
+	color: white;
+	text-decoration: none;
+}
+
+.line-break {
+	width: 325px;
+	margin: 0 auto;
+	margin-top: -10px;
+	border-top: 1px solid white;
+}
+
+button {
+	background: white;
+	color: gray;
+	padding: 6px;
+	border: solid 1px black;
+	border-radius: 4px;
+	font-size: 10px;
+	margin-top: 16px
+}
